@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.eclipse.milo</groupId>
         <artifactId>milo-examples</artifactId>
-        <version>0.6.9-SNAPSHOT</version>
+        <version>0.6.8</version>
     </parent>
 
     <artifactId>client-examples</artifactId>
@@ -28,7 +28,7 @@
         <dependency>
             <groupId>org.eclipse.milo</groupId>
             <artifactId>server-examples</artifactId>
-            <version>0.6.9-SNAPSHOT</version>
+            <version>0.6.8</version>
         </dependency>
         <dependency>
             <groupId>ch.qos.logback</groupId>
